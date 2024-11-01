@@ -48,7 +48,6 @@ body {
     background-color: green;
 }
 
-/* Responsive adjustments */
 @media (max-width: 768px) {
     .btn {
         height: 150px;
