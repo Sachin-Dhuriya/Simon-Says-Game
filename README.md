@@ -34,6 +34,9 @@ Event listeners handle user input, enabling interaction through mouse clicks or 
 
 # How to Play
 Start the Game: Press any key to begin.
+
 Follow the Sequence: Watch the color pattern displayed by the game, then click the buttons in the same order.
+
 Level Up: Successfully repeat the pattern to advance to the next level.
+
 Game Over: If you click the wrong sequence, the game ends, and your score is displayed. Press any key to start a new game.
